@@ -6,7 +6,6 @@
 Makefile
 pkg
 zookeeper.gemspec
-Gemfile.*
 tmp/
 .rvmrc
 .zkserver
@@ -16,4 +15,3 @@ coverage
 *.swo
 
 .ruby-gemset
-.ruby-version
